@@ -1,11 +1,10 @@
 # PrintFreeMemory
-
 ```c
-void PrintFreeMemory(unk p1, unk p2);
+// 0x005e1bb0
+void PrintFreeMemory(unk p0, unk p1)
 ```
-
 ## Description
-
 ```
-It's a nullsub.
+Minimum Arguments: 2
+Maximum Arguments: 2
 ```
