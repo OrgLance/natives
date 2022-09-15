@@ -63,15 +63,17 @@ def generateClassMarkdown(className, classContent):
 
     return markdownFmt
 
-print("generating md for global functions")
-
 globalFunctions = jsonContent["globalFunctions"]
 classFunctions = jsonContent["classFunctions"]
+
+print("Generating Markdown for global functions")
 
 for currentFunc in globalFunctions:
     currentName = f"docs/globals/{currentFunc}.md"
     if not os.path.exists(currentName):
         open(currentName, "w+").write(generateMarkdownFile(globalFunctions[currentFunc]))
+
+print("Generating Markdown for class functions")
 
 for currentClassName in classFunctions:
     currentClassFolderPath = f"docs/classes/{currentClassName}"
