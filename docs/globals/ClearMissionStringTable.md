@@ -1,10 +1,10 @@
 # ClearMissionStringTable
 ```c
 // 0x0048a250
-void ClearMissionStringTable(unk p0)
+void ClearMissionStringTable()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

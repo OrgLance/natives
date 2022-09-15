@@ -1,10 +1,10 @@
 # CharacterObject::GetOnKilledVehicleID
 ```c
 // 0x005873b0
-int CharacterObject::GetOnKilledVehicleID(unk p0, unk p1)
+int CharacterObject::GetOnKilledVehicleID(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

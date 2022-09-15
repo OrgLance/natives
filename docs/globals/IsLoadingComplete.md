@@ -1,10 +1,10 @@
 # IsLoadingComplete
 ```c
 // 0x0047b770
-bool IsLoadingComplete(unk p0, ...)
+bool IsLoadingComplete(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 2
+Minimum Arguments: 0
+Maximum Arguments: 1
 ```

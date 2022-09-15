@@ -1,10 +1,10 @@
 # HUDTapePlayer::Stop
 ```c
 // 0x005d29b0
-void HUDTapePlayer::Stop(unk p0, unk p1, ...)
+void HUDTapePlayer::Stop(unk p0, ...)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 5
+Minimum Arguments: 1
+Maximum Arguments: 4
 ```

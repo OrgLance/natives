@@ -1,10 +1,10 @@
 # VehicleObject::GetVelocity
 ```c
 // 0x006357a0
-string VehicleObject::GetVelocity(unk p0, unk p1)
+string VehicleObject::GetVelocity(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

@@ -1,10 +1,10 @@
 # HUD_IsForcedDisabled
 ```c
 // 0x005c0320
-bool HUD_IsForcedDisabled(unk p0)
+bool HUD_IsForcedDisabled()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

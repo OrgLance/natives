@@ -1,10 +1,10 @@
 # HideMapModalMini
 ```c
 // 0x005d38e0
-void HideMapModalMini(unk p0, unk p1)
+void HideMapModalMini(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

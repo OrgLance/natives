@@ -1,10 +1,10 @@
 # SoundDisableAmbience
 ```c
 // 0x0049a450
-void SoundDisableAmbience(unk p0, unk p1)
+void SoundDisableAmbience(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

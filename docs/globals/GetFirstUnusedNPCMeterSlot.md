@@ -1,10 +1,10 @@
 # GetFirstUnusedNPCMeterSlot
 ```c
 // 0x005d1700
-int GetFirstUnusedNPCMeterSlot(unk p0, ...)
+int GetFirstUnusedNPCMeterSlot(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 2
+Minimum Arguments: 0
+Maximum Arguments: 1
 ```

@@ -18,6 +18,9 @@ def generateMarkdownFile(nativeFunc):
     returnName = getReturnName(nativeFunc["return"])
     methodName = nativeFunc["methodName"]
 
+    nativeFunc["minArguments"] = nativeFunc["minArguments"] - 1
+    nativeFunc["maxArguments"] = nativeFunc["maxArguments"] - 1
+
     if "className" in nativeFunc:
         methodName = nativeFunc["className"] + "::" + methodName
 

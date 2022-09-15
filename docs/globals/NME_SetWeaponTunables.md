@@ -1,10 +1,10 @@
 # NME_SetWeaponTunables
 ```c
 // 0x005282a0
-void NME_SetWeaponTunables(unk p0, unk p1, unk p2)
+void NME_SetWeaponTunables(unk p0, unk p1)
 ```
 ## Description
 ```
-Minimum Arguments: 3
-Maximum Arguments: 3
+Minimum Arguments: 2
+Maximum Arguments: 2
 ```

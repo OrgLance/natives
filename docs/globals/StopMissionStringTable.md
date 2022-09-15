@@ -1,10 +1,10 @@
 # StopMissionStringTable
 ```c
 // 0x0048a240
-void StopMissionStringTable(unk p0)
+void StopMissionStringTable()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

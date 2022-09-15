@@ -1,10 +1,10 @@
 # CancelAllStreaming
 ```c
 // 0x004b4250
-void CancelAllStreaming(unk p0)
+void CancelAllStreaming()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

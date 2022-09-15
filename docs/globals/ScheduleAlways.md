@@ -1,10 +1,10 @@
 # ScheduleAlways
 ```c
 // 0x0048a0f0
-int ScheduleAlways(unk p0, unk p1, unk p2, ...)
+int ScheduleAlways(unk p0, unk p1, ...)
 ```
 ## Description
 ```
-Minimum Arguments: 3
-Maximum Arguments: 63
+Minimum Arguments: 2
+Maximum Arguments: 62
 ```

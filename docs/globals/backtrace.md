@@ -1,10 +1,10 @@
 # backtrace
 ```c
 // 0x004949e0
-void backtrace(unk p0)
+void backtrace()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

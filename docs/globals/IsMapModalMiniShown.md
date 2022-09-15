@@ -1,10 +1,10 @@
 # IsMapModalMiniShown
 ```c
 // 0x005d3890
-bool IsMapModalMiniShown(unk p0)
+bool IsMapModalMiniShown()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

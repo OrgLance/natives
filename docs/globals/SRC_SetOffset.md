@@ -1,10 +1,10 @@
 # SRC_SetOffset
 ```c
 // 0x00469790
-void SRC_SetOffset(unk p0, unk p1, unk p2, unk p3)
+void SRC_SetOffset(unk p0, unk p1, unk p2)
 ```
 ## Description
 ```
-Minimum Arguments: 4
-Maximum Arguments: 4
+Minimum Arguments: 3
+Maximum Arguments: 3
 ```

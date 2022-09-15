@@ -1,10 +1,10 @@
 # AnimationLoaderObject::IsLoaded
 ```c
 // 0x0056da20
-bool AnimationLoaderObject::IsLoaded(unk p0, unk p1)
+bool AnimationLoaderObject::IsLoaded(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

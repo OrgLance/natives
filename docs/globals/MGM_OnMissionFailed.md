@@ -1,10 +1,10 @@
 # MGM_OnMissionFailed
 ```c
 // 0x006420a0
-void MGM_OnMissionFailed(unk p0)
+void MGM_OnMissionFailed()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

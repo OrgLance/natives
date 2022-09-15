@@ -1,10 +1,10 @@
 # MGM_VisibilityReset
 ```c
 // 0x00642280
-void MGM_VisibilityReset(unk p0, ...)
+void MGM_VisibilityReset(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 2
+Minimum Arguments: 0
+Maximum Arguments: 1
 ```

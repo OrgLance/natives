@@ -1,10 +1,10 @@
 # OverlayToggleCurrentItem
 ```c
 // 0x005e1bb0
-void OverlayToggleCurrentItem(unk p0)
+void OverlayToggleCurrentItem()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

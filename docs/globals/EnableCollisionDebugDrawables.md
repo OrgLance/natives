@@ -1,10 +1,10 @@
 # EnableCollisionDebugDrawables
 ```c
 // 0x00643240
-void EnableCollisionDebugDrawables(unk p0, ...)
+void EnableCollisionDebugDrawables(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 2
+Minimum Arguments: 0
+Maximum Arguments: 1
 ```

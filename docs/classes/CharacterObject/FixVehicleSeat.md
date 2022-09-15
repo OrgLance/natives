@@ -1,10 +1,10 @@
 # CharacterObject::FixVehicleSeat
 ```c
 // 0x00587c70
-bool CharacterObject::FixVehicleSeat(unk p0, unk p1, unk p2, ...)
+bool CharacterObject::FixVehicleSeat(unk p0, unk p1, ...)
 ```
 ## Description
 ```
-Minimum Arguments: 3
-Maximum Arguments: 4
+Minimum Arguments: 2
+Maximum Arguments: 3
 ```

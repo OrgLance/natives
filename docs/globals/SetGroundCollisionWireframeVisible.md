@@ -1,10 +1,10 @@
 # SetGroundCollisionWireframeVisible
 ```c
 // 0x006432a0
-void SetGroundCollisionWireframeVisible(unk p0, ...)
+void SetGroundCollisionWireframeVisible(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 2
+Minimum Arguments: 0
+Maximum Arguments: 1
 ```

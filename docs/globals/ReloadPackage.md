@@ -1,10 +1,10 @@
 # ReloadPackage
 ```c
 // 0x00652590
-bool ReloadPackage(unk p0, unk p1)
+bool ReloadPackage(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

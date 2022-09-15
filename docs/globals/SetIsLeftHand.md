@@ -1,10 +1,10 @@
 # SetIsLeftHand
 ```c
 // 0x00430230
-void SetIsLeftHand(unk p0, unk p1)
+void SetIsLeftHand(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

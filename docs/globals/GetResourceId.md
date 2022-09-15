@@ -1,10 +1,10 @@
 # GetResourceId
 ```c
 // 0x0047ba70
-int GetResourceId(unk p0, unk p1)
+int GetResourceId(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

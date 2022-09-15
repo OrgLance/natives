@@ -1,10 +1,10 @@
 # UnpauseGame
 ```c
 // 0x004f5760
-void UnpauseGame(unk p0, ...)
+void UnpauseGame(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 3
+Minimum Arguments: 0
+Maximum Arguments: 2
 ```

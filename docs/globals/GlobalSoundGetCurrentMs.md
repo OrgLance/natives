@@ -1,10 +1,10 @@
 # GlobalSoundGetCurrentMs
 ```c
 // 0x0049a420
-int GlobalSoundGetCurrentMs(unk p0)
+int GlobalSoundGetCurrentMs()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

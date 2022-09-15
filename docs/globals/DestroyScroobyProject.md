@@ -1,10 +1,10 @@
 # DestroyScroobyProject
 ```c
 // 0x00439f80
-void DestroyScroobyProject(unk p0, unk p1)
+void DestroyScroobyProject(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

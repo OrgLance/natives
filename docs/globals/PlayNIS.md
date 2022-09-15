@@ -1,10 +1,10 @@
 # PlayNIS
 ```c
 // 0x004416d0
-void PlayNIS(unk p0, unk p1, ...)
+void PlayNIS(unk p0, ...)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 13
+Minimum Arguments: 1
+Maximum Arguments: 12
 ```

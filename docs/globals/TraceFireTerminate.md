@@ -1,10 +1,10 @@
 # TraceFireTerminate
 ```c
 // 0x005ec460
-void TraceFireTerminate(unk p0)
+void TraceFireTerminate()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

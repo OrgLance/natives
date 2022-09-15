@@ -1,10 +1,10 @@
 # GetStreamerObjectOfInterest
 ```c
 // 0x004b41d0
-int GetStreamerObjectOfInterest(unk p0)
+int GetStreamerObjectOfInterest()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

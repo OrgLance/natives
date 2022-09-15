@@ -1,10 +1,10 @@
 # InvSelectionHUD::IncrementSelection
 ```c
 // 0x005d3430
-void InvSelectionHUD::IncrementSelection(unk p0, unk p1)
+void InvSelectionHUD::IncrementSelection(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

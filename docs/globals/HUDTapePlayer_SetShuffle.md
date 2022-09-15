@@ -1,10 +1,10 @@
 # HUDTapePlayer_SetShuffle
 ```c
 // 0x005d2ae0
-void HUDTapePlayer_SetShuffle(unk p0, unk p1)
+void HUDTapePlayer_SetShuffle(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

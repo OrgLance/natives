@@ -1,10 +1,10 @@
 # VectorMultiply
 ```c
 // 0x004bf6a0
-string VectorMultiply(unk p0, unk p1, unk p2)
+string VectorMultiply(unk p0, unk p1)
 ```
 ## Description
 ```
-Minimum Arguments: 3
-Maximum Arguments: 3
+Minimum Arguments: 2
+Maximum Arguments: 2
 ```

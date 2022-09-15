@@ -1,10 +1,10 @@
 # InstanceObject::GetStatePropByIndex
 ```c
 // 0x005eb590
-int InstanceObject::GetStatePropByIndex(unk p0, unk p1, unk p2)
+int InstanceObject::GetStatePropByIndex(unk p0, unk p1)
 ```
 ## Description
 ```
-Minimum Arguments: 3
-Maximum Arguments: 3
+Minimum Arguments: 2
+Maximum Arguments: 2
 ```

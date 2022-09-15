@@ -1,10 +1,10 @@
 # RemoveTextbibleSpecialStringData
 ```c
 // 0x00439d10
-void RemoveTextbibleSpecialStringData(unk p0, ...)
+void RemoveTextbibleSpecialStringData(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 2
+Minimum Arguments: 0
+Maximum Arguments: 1
 ```

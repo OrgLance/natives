@@ -1,10 +1,10 @@
 # MGM_TriggerGetID
 ```c
 // 0x006420d0
-int MGM_TriggerGetID(unk p0, unk p1)
+int MGM_TriggerGetID(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

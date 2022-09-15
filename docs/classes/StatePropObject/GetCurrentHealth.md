@@ -1,10 +1,10 @@
 # StatePropObject::GetCurrentHealth
 ```c
 // 0x006088f0
-float StatePropObject::GetCurrentHealth(unk p0, unk p1)
+float StatePropObject::GetCurrentHealth(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

@@ -1,10 +1,10 @@
 # GetLastRootObject
 ```c
 // 0x00492fd0
-int GetLastRootObject(unk p0)
+int GetLastRootObject()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

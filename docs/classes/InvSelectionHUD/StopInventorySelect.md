@@ -1,10 +1,10 @@
 # InvSelectionHUD::StopInventorySelect
 ```c
 // 0x005d33b0
-void InvSelectionHUD::StopInventorySelect(unk p0, unk p1, ...)
+void InvSelectionHUD::StopInventorySelect(unk p0, ...)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 3
+Minimum Arguments: 1
+Maximum Arguments: 2
 ```

@@ -1,10 +1,10 @@
 # ParticleEffectObject::Start
 ```c
 // 0x005eb7b0
-void ParticleEffectObject::Start(unk p0, unk p1)
+void ParticleEffectObject::Start(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

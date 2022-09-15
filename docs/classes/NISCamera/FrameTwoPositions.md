@@ -1,10 +1,10 @@
 # NISCamera::FrameTwoPositions
 ```c
 // 0x0056b490
-void NISCamera::FrameTwoPositions(unk p0, unk p1, unk p2, unk p3, unk p4)
+void NISCamera::FrameTwoPositions(unk p0, unk p1, unk p2, unk p3)
 ```
 ## Description
 ```
-Minimum Arguments: 5
-Maximum Arguments: 5
+Minimum Arguments: 4
+Maximum Arguments: 4
 ```

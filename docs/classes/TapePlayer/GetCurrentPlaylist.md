@@ -1,10 +1,10 @@
 # TapePlayer::GetCurrentPlaylist
 ```c
 // 0x005f0740
-int TapePlayer::GetCurrentPlaylist(unk p0, unk p1)
+int TapePlayer::GetCurrentPlaylist(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

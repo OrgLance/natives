@@ -1,10 +1,10 @@
 # CreateDockGroup
 ```c
 // 0x005c1fa0
-int CreateDockGroup(unk p0, ...)
+int CreateDockGroup(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 2
+Minimum Arguments: 0
+Maximum Arguments: 1
 ```

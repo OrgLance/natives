@@ -1,10 +1,10 @@
 # SetDrawDistance
 ```c
 // 0x00457560
-void SetDrawDistance(unk p0, unk p1)
+void SetDrawDistance(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

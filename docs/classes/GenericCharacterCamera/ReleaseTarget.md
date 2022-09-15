@@ -1,10 +1,10 @@
 # GenericCharacterCamera::ReleaseTarget
 ```c
 // 0x0056a940
-void GenericCharacterCamera::ReleaseTarget(unk p0, unk p1)
+void GenericCharacterCamera::ReleaseTarget(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

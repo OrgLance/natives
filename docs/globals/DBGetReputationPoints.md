@@ -1,10 +1,10 @@
 # DBGetReputationPoints
 ```c
 // 0x00433ca0
-int DBGetReputationPoints(unk p0)
+int DBGetReputationPoints()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```

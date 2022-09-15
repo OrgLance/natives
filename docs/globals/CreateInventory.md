@@ -1,10 +1,10 @@
 # CreateInventory
 ```c
 // 0x0047b990
-void CreateInventory(unk p0, unk p1, ...)
+void CreateInventory(unk p0, ...)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 3
+Minimum Arguments: 1
+Maximum Arguments: 2
 ```

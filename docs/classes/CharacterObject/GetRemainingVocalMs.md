@@ -1,10 +1,10 @@
 # CharacterObject::GetRemainingVocalMs
 ```c
 // 0x00587280
-int CharacterObject::GetRemainingVocalMs(unk p0, unk p1)
+int CharacterObject::GetRemainingVocalMs(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

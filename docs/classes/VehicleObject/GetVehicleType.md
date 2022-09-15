@@ -1,10 +1,10 @@
 # VehicleObject::GetVehicleType
 ```c
 // 0x00635420
-int VehicleObject::GetVehicleType(unk p0, unk p1)
+int VehicleObject::GetVehicleType(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

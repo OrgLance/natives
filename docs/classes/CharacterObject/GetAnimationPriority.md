@@ -1,10 +1,10 @@
 # CharacterObject::GetAnimationPriority
 ```c
 // 0x005874b0
-int CharacterObject::GetAnimationPriority(unk p0, unk p1)
+int CharacterObject::GetAnimationPriority(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

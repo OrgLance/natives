@@ -1,10 +1,10 @@
 # CharacterObject::SetConversationType
 ```c
 // 0x00587840
-bool CharacterObject::SetConversationType(unk p0, unk p1, unk p2)
+bool CharacterObject::SetConversationType(unk p0, unk p1)
 ```
 ## Description
 ```
-Minimum Arguments: 3
-Maximum Arguments: 3
+Minimum Arguments: 2
+Maximum Arguments: 2
 ```

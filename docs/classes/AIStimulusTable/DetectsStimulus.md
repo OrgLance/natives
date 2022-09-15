@@ -1,10 +1,10 @@
 # AIStimulusTable::DetectsStimulus
 ```c
 // 0x00522b30
-void AIStimulusTable::DetectsStimulus(unk p0, unk p1, unk p2)
+void AIStimulusTable::DetectsStimulus(unk p0, unk p1)
 ```
 ## Description
 ```
-Minimum Arguments: 3
-Maximum Arguments: 3
+Minimum Arguments: 2
+Maximum Arguments: 2
 ```

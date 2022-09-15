@@ -1,10 +1,10 @@
 # CameraManager::Request_NISCameraMode
 ```c
 // 0x0056a360
-void CameraManager::Request_NISCameraMode(unk p0, unk p1, unk p2, ...)
+void CameraManager::Request_NISCameraMode(unk p0, unk p1, ...)
 ```
 ## Description
 ```
-Minimum Arguments: 3
-Maximum Arguments: 6
+Minimum Arguments: 2
+Maximum Arguments: 5
 ```

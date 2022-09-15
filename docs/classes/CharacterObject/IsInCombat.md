@@ -1,10 +1,10 @@
 # CharacterObject::IsInCombat
 ```c
 // 0x005875f0
-int CharacterObject::IsInCombat(unk p0, unk p1)
+int CharacterObject::IsInCombat(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

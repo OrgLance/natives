@@ -1,10 +1,10 @@
 # GetInputPointByLogicalName
 ```c
 // 0x0042f830
-int GetInputPointByLogicalName(unk p0, unk p1, ...)
+int GetInputPointByLogicalName(unk p0, ...)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 3
+Minimum Arguments: 1
+Maximum Arguments: 2
 ```

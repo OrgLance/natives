@@ -1,10 +1,10 @@
 # TakeScreenShot
 ```c
 // 0x00457600
-string TakeScreenShot(unk p0, ...)
+string TakeScreenShot(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 4
+Minimum Arguments: 0
+Maximum Arguments: 3
 ```

@@ -1,10 +1,10 @@
 # GameSimObject::SetInvincible
 ```c
 // 0x004469a0
-void GameSimObject::SetInvincible(unk p0, unk p1, unk p2, ...)
+void GameSimObject::SetInvincible(unk p0, unk p1, ...)
 ```
 ## Description
 ```
-Minimum Arguments: 3
-Maximum Arguments: 4
+Minimum Arguments: 2
+Maximum Arguments: 3
 ```

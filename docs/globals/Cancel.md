@@ -1,10 +1,10 @@
 # Cancel
 ```c
 // 0x0048a1f0
-void Cancel(unk p0, unk p1)
+void Cancel(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

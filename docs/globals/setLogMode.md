@@ -1,10 +1,10 @@
 # setLogMode
 ```c
 // 0x00493d00
-void setLogMode(unk p0, unk p1)
+void setLogMode(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

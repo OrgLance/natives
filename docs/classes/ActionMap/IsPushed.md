@@ -1,10 +1,10 @@
 # ActionMap::IsPushed
 ```c
 // 0x0042f680
-bool ActionMap::IsPushed(unk p0, unk p1)
+bool ActionMap::IsPushed(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

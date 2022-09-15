@@ -1,10 +1,10 @@
 # MGM_SetIgnoreNPCModifier
 ```c
 // 0x006425c0
-void MGM_SetIgnoreNPCModifier(unk p0, unk p1)
+void MGM_SetIgnoreNPCModifier(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Minimum Arguments: 1
+Maximum Arguments: 1
 ```

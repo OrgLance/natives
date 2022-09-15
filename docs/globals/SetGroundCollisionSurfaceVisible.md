@@ -1,10 +1,10 @@
 # SetGroundCollisionSurfaceVisible
 ```c
 // 0x00643260
-void SetGroundCollisionSurfaceVisible(unk p0, ...)
+void SetGroundCollisionSurfaceVisible(...)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 2
+Minimum Arguments: 0
+Maximum Arguments: 1
 ```

@@ -1,10 +1,10 @@
 # AreBoundaryTeleportsDisabled
 ```c
 // 0x004f5aa0
-bool AreBoundaryTeleportsDisabled(unk p0)
+bool AreBoundaryTeleportsDisabled()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Minimum Arguments: 0
+Maximum Arguments: 0
 ```
