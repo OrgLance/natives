@@ -5,6 +5,8 @@ string TakeScreenShot(...)
 ```
 ## Description
 ```
-Minimum Arguments: 0
-Maximum Arguments: 3
+Optional Argument 1 is the Name of the Screenshot File.
+Optional Argument 2: unk
+Optional Argument 3: unk
+The Return Value is the Name of the Screenshot File.
 ```

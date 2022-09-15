@@ -1,10 +1,9 @@
 # SetIsLeftHand
 ```c
 // 0x00430230
-void SetIsLeftHand(unk p0)
+void SetIsLeftHand(bool isInverted)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Sets if the Mouse Buttons are inverted!
 ```

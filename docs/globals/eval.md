@@ -1,10 +1,9 @@
 # eval
 ```c
 // 0x00492ea0
-string eval(unk p0)
+string eval(string expression)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Eval returns the result of the expression to be evaluated.
 ```
