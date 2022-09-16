@@ -1,7 +1,7 @@
 # SetMapLegendShown
 ```c
 // 0x005d38b0
-void SetMapLegendShown(unk p0)
+void SetMapLegendShown(bool toggle)
 ```
 ## Description
 ```

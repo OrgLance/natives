@@ -1,10 +1,9 @@
 # RemoveCodeBlock
 ```c
 // 0x00489e80
-void RemoveCodeBlock(unk p0)
+void RemoveCodeBlock(string codeBlockName)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Frees a specific CodeBlock with a Name
 ```
