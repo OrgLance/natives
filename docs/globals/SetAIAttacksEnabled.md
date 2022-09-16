@@ -1,10 +1,9 @@
 # SetAIAttacksEnabled
 ```c
 // 0x00522a60
-void SetAIAttacksEnabled(unk p0)
+void SetAIAttacksEnabled(bool aiAttacksEnabled)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Just does what it says.
 ```

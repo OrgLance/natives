@@ -1,7 +1,7 @@
 # SetFontInventory
 ```c
 // 0x00439ba0
-void SetFontInventory(unk p0)
+void SetFontInventory(string fontInventoryPath)
 ```
 ## Description
 ```

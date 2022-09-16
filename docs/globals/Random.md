@@ -5,6 +5,5 @@ float Random()
 ```
 ## Description
 ```
-Minimum Arguments: 0
-Maximum Arguments: 0
+Just returns a random float...
 ```

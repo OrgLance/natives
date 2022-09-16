@@ -1,10 +1,9 @@
 # ltrim
 ```c
 // 0x00492da0
-string ltrim(unk p0)
+string ltrim(string target)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Left-trims the content of the first argument.
 ```

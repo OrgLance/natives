@@ -1,10 +1,9 @@
 # rtrim
 ```c
 // 0x00493190
-string rtrim(unk p0)
+string rtrim(string target)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Right-trims the content of the first argument.
 ```

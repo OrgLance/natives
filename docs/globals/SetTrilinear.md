@@ -1,10 +1,9 @@
 # SetTrilinear
 ```c
 // 0x00457510
-void SetTrilinear(unk p0)
+void SetTrilinear(bool isTrilinearEnabled)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Just does what it says.
 ```

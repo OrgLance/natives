@@ -1,10 +1,9 @@
 # setLogMode
 ```c
 // 0x00493d00
-void setLogMode(unk p0)
+void setLogMode(int logMode)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+This Function is a Nullsub.
 ```

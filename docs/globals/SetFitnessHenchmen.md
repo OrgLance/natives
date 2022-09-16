@@ -1,10 +1,9 @@
 # SetFitnessHenchmen
 ```c
 // 0x0057c6a0
-void SetFitnessHenchmen(unk p0)
+void SetFitnessHenchmen(bool toggle)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Sets if the Henchmen is upgraded or not.
 ```
