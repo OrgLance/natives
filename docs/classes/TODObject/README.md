@@ -22,6 +22,7 @@ $tod = FindObject("TODObject");
 $currentHour = tod.GetTimeHour();
 $currentMinute = tod.GetTimeMinute();
 
+// We can log DebugMsg
 DebugMsg("TOD", "Current Hour: " @ %currentHour);
 DebugMsg("TOD", "Current Minute: " @ %currentMinute);
 ```
