@@ -1,10 +1,9 @@
 # RestartOpeningSequence
 ```c
 // 0x004f40b0
-void RestartOpeningSequence(unk p0)
+void RestartOpeningSequence(bool p0)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Don't call this it will crash.
 ```
