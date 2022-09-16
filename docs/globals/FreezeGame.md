@@ -1,10 +1,9 @@
 # FreezeGame
 ```c
 // 0x00437830
-void FreezeGame(unk p0)
+void FreezeGame(bool freezeGame)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Does what it says.
 ```

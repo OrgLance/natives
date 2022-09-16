@@ -5,6 +5,6 @@ void PrintFreeMemory(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+This Function is a Nullsub.
+P0 was probably a string with a specified allocator name!
 ```

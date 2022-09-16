@@ -1,10 +1,16 @@
 # CVM_GetCVTemplateNameByIndex
 ```c
 // 0x004f4e80
-string CVM_GetCVTemplateNameByIndex(unk p0, unk p1)
+string CVM_GetCVTemplateNameByIndex(string cvTemplateRegister, int index)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+CV Templates:
+- character
+- boat
+
+There is a third CV Template but that has been lost...
+While shipping the release.
+
+And if none of that matches a default template return value is getting returned.
 ```

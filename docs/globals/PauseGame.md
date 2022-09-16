@@ -1,7 +1,7 @@
 # PauseGame
 ```c
 // 0x004f5570
-void PauseGame(...)
+void PauseGame(/* optional */ bool isPaused)
 ```
 ## Description
 ```

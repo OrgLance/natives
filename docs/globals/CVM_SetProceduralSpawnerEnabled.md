@@ -1,10 +1,9 @@
 # CVM_SetProceduralSpawnerEnabled
 ```c
 // 0x004f4b90
-void CVM_SetProceduralSpawnerEnabled(unk p0)
+void CVM_SetProceduralSpawnerEnabled(bool toggle)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Enables / Disables Procedural Spawners.
 ```

@@ -1,10 +1,9 @@
 # CVM_SetWaitingForLoad
 ```c
 // 0x004f4de0
-void CVM_SetWaitingForLoad(unk p0)
+void CVM_SetWaitingForLoad(bool toggle)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Sets if it should wait for loading. Duh.
 ```

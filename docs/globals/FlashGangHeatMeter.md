@@ -5,6 +5,5 @@ void FlashGangHeatMeter()
 ```
 ## Description
 ```
-Minimum Arguments: 0
-Maximum Arguments: 0
+Displays the Gang Heat.
 ```

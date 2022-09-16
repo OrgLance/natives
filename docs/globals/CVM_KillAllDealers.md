@@ -5,6 +5,5 @@ void CVM_KillAllDealers()
 ```
 ## Description
 ```
-Minimum Arguments: 0
-Maximum Arguments: 0
+Kills all Dealers.
 ```

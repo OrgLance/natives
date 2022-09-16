@@ -1,7 +1,7 @@
 # PushTrafficConfig
 ```c
 // 0x005ff180
-void PushTrafficConfig(unk p0, ...)
+void PushTrafficConfig(string trafficConfigName, ...)
 ```
 ## Description
 ```

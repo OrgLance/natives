@@ -1,10 +1,9 @@
 # CVM_SetPirateBoatsEnabled
 ```c
 // 0x004f4c20
-void CVM_SetPirateBoatsEnabled(unk p0)
+void CVM_SetPirateBoatsEnabled(bool toggle)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Enables / Disables Pirate Boats.
 ```

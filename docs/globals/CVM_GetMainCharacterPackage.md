@@ -4,7 +4,7 @@
 string CVM_GetMainCharacterPackage()
 ```
 ## Description
-```
-Minimum Arguments: 0
-Maximum Arguments: 0
+```json
+Does what is says.
+Example return: "MCP_HawaiianTony"
 ```
