@@ -1,10 +1,9 @@
 # TODObject::IsRaining
 ```c
 // 0x005ec280
-bool TODObject::IsRaining(unk p0)
+bool TODObject::IsRaining()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Just does what it says.
 ```

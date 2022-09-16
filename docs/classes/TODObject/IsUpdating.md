@@ -1,10 +1,9 @@
 # TODObject::IsUpdating
 ```c
 // 0x005ec290
-bool TODObject::IsUpdating(unk p0)
+bool TODObject::IsUpdating()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Just does what it says.
 ```

@@ -1,10 +1,9 @@
 # TODObject::GetTimeMinute
 ```c
 // 0x005ec2d0
-int TODObject::GetTimeMinute(unk p0)
+int TODObject::GetTimeMinute()
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Just does what it says.
 ```

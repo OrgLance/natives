@@ -1,10 +1,9 @@
 # TODObject::EnableTODUpdate
 ```c
 // 0x005ec210
-void TODObject::EnableTODUpdate(unk p0, unk p1)
+void TODObject::EnableTODUpdate(bool enabledUpdating)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Just does what it says.
 ```
