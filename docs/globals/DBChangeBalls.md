@@ -1,7 +1,7 @@
 # DBChangeBalls
 ```c
 // 0x00433af0
-float DBChangeBalls(unk p0)
+float DBChangeBalls(float balls)
 ```
 ## Description
 ```

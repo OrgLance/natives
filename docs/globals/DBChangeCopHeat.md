@@ -1,7 +1,7 @@
 # DBChangeCopHeat
 ```c
 // 0x00433b10
-float DBChangeCopHeat(unk p0)
+float DBChangeCopHeat(float copHeat)
 ```
 ## Description
 ```

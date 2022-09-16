@@ -1,7 +1,7 @@
 # ChangeMSAA
 ```c
 // 0x004573a0
-void ChangeMSAA(unk p0)
+void ChangeMSAA(int msaaLevel)
 ```
 ## Description
 ```

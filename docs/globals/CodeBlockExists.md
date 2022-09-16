@@ -1,7 +1,7 @@
 # CodeBlockExists
 ```c
 // 0x00489eb0
-bool CodeBlockExists(unk p0)
+bool CodeBlockExists(string codeBlockName)
 ```
 ## Description
 ```

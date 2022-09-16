@@ -1,7 +1,7 @@
 # DBChangeDirtyCash
 ```c
 // 0x00433bb0
-int DBChangeDirtyCash(unk p0)
+int DBChangeDirtyCash(int dirtyCash)
 ```
 ## Description
 ```

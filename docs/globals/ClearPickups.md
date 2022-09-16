@@ -5,6 +5,5 @@ void ClearPickups()
 ```
 ## Description
 ```
-Minimum Arguments: 0
-Maximum Arguments: 0
+Does what it says.
 ```
