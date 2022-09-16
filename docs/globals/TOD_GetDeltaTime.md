@@ -1,10 +1,9 @@
 # TOD_GetDeltaTime
 ```c
 // 0x005ec300
-int TOD_GetDeltaTime(unk p0, unk p1)
+int TOD_GetDeltaTime(int startTime, int endTime)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Calculates the Delta Time of two Times.
 ```
