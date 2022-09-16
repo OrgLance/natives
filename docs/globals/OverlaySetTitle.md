@@ -5,6 +5,5 @@ void OverlaySetTitle(unk p0)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+This Function is a Nullsub.
 ```

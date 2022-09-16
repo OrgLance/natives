@@ -1,10 +1,9 @@
 # GameShutdown
 ```c
 // 0x00436710
-void GameShutdown(...)
+void GameShutdown()
 ```
 ## Description
 ```
-Minimum Arguments: -1
-Maximum Arguments: 0
+Just kills the Game....
 ```

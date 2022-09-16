@@ -5,6 +5,5 @@ void OverlayPrevItem()
 ```
 ## Description
 ```
-Minimum Arguments: 0
-Maximum Arguments: 0
+This Function is a Nullsub.
 ```

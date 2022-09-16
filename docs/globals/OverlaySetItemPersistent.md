@@ -5,6 +5,5 @@ void OverlaySetItemPersistent(unk p0, unk p1)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+This Function is a Nullsub.
 ```
