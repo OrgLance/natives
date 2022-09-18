@@ -23,8 +23,8 @@ $currentHour = tod.GetTimeHour();
 $currentMinute = tod.GetTimeMinute();
 
 // We can log DebugMsg
-DebugMsg("TOD", "Current Hour: " @ %currentHour);
-DebugMsg("TOD", "Current Minute: " @ %currentMinute);
+DebugMsg("TOD", "Current Hour: " @ $currentHour);
+DebugMsg("TOD", "Current Minute: " @ $currentMinute);
 ```
 
 An Example how to set the current Time:
