@@ -1,10 +1,9 @@
 # MGM_VisibilitySetEnabled
 ```c
 // 0x006421e0
-void MGM_VisibilitySetEnabled(unk p0)
+void MGM_VisibilitySetEnabled(bool toggle)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Does what it says.
 ```

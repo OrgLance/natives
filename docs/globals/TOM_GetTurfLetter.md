@@ -4,7 +4,6 @@
 string TOM_GetTurfLetter(int letterId)
 ```
 ## Description
-<br>
 
 | Letter Id | Return Value |
 |-----------|--------------|

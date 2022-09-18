@@ -1,10 +1,9 @@
 # MGM_VisibilityScaleModifierSetDistance
 ```c
 // 0x006423f0
-void MGM_VisibilityScaleModifierSetDistance(unk p0)
+void MGM_VisibilityScaleModifierSetDistance(float distance)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Does what it says.
 ```

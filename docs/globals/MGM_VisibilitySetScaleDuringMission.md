@@ -1,10 +1,9 @@
 # MGM_VisibilitySetScaleDuringMission
 ```c
 // 0x00642210
-void MGM_VisibilitySetScaleDuringMission(unk p0)
+void MGM_VisibilitySetScaleDuringMission(float visibilityScale)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Does what it says.
 ```

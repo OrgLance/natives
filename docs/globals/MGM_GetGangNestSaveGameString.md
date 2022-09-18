@@ -4,7 +4,16 @@
 string MGM_GetGangNestSaveGameString()
 ```
 ## Description
+The Return value consits of 6 * 4 bytes.<br>
+One Part is one Zone.
+
+### Example Script
+```php
+$outputBinary = MGM_GetGangNestSaveGameString();
+DebugMsg("Save Game", $outputBinary);
 ```
-Minimum Arguments: 0
-Maximum Arguments: 0
+
+### Example Output
+```json
+000080000000000000000000000000000000000000000000
 ```

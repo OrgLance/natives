@@ -1,10 +1,9 @@
 # SetMouseSensitivityLevel
 ```c
 // 0x0042f880
-void SetMouseSensitivityLevel(unk p0)
+void SetMouseSensitivityLevel(int sensitivity)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Just does what it says.
 ```

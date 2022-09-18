@@ -5,6 +5,5 @@ void MGM_KillAllCops()
 ```
 ## Description
 ```
-Minimum Arguments: -1
-Maximum Arguments: -1
+Just kills all the Cops.
 ```

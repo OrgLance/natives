@@ -1,7 +1,7 @@
 # SetPlayerGameObject
 ```c
 // 0x0056fda0
-void SetPlayerGameObject(unk p0)
+void SetPlayerGameObject(int objectIndex)
 ```
 ## Description
 ```

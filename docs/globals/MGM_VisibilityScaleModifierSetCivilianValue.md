@@ -1,10 +1,9 @@
 # MGM_VisibilityScaleModifierSetCivilianValue
 ```c
 // 0x00642430
-void MGM_VisibilityScaleModifierSetCivilianValue(unk p0)
+void MGM_VisibilityScaleModifierSetCivilianValue(float civilianValue)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Does what it says.
 ```

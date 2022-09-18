@@ -1,10 +1,9 @@
 # MGM_VisibilitySetEscapeRadiusScale
 ```c
 // 0x00642320
-void MGM_VisibilitySetEscapeRadiusScale(unk p0)
+void MGM_VisibilitySetEscapeRadiusScale(float radius)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Sets the Radius before you can escape the Cops.
 ```

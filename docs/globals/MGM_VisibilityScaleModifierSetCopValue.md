@@ -1,10 +1,9 @@
 # MGM_VisibilityScaleModifierSetCopValue
 ```c
 // 0x00642410
-void MGM_VisibilityScaleModifierSetCopValue(unk p0)
+void MGM_VisibilityScaleModifierSetCopValue(float copValue)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Does what it says.
 ```

@@ -1,10 +1,9 @@
 # MGM_SetGangNestDestroyed
 ```c
 // 0x00642520
-void MGM_SetGangNestDestroyed(unk p0, unk p1)
+void MGM_SetGangNestDestroyed(int gangNestId, bool isDestroyed)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+A funny thing about this Native is that even if you set Parameter isDestroyed to false it will still set it as destroyed.
 ```

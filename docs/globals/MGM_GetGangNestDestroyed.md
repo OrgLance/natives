@@ -1,10 +1,14 @@
 # MGM_GetGangNestDestroyed
 ```c
 // 0x006424e0
-bool MGM_GetGangNestDestroyed(unk p0)
+bool MGM_GetGangNestDestroyed(int gangNestId)
 ```
 ## Description
-```
-Minimum Arguments: 1
-Maximum Arguments: 1
+```c
+Just does what it says.
+
+bool MGM_GetGangNestDestroyed(int gangNestId)
+{
+  return ((1 << (a1 % 32)) & gGangNestsDestroyed[a1 / 32]) != 0;
+}
 ```

@@ -5,6 +5,5 @@ bool MGM_VisibilityIsFucked()
 ```
 ## Description
 ```
-Minimum Arguments: -1
-Maximum Arguments: -1
+Just does what it says.
 ```

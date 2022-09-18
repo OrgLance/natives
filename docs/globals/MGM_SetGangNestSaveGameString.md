@@ -1,10 +1,14 @@
 # MGM_SetGangNestSaveGameString
 ```c
 // 0x00642480
-void MGM_SetGangNestSaveGameString(unk p0)
+void MGM_SetGangNestSaveGameString(string saveGameString)
 ```
 ## Description
-```
-Minimum Arguments: 1
-Maximum Arguments: 1
+
+If you want to know more about it look **[here](MGM_GetGangNestSaveGameString.md)**.
+
+But if you want to destroy all Gang Nests at once:
+```php
+$saveGameString = "ffffffffffffffffffffffffffffffffffffffffffffffff";
+MGM_GetGangNestSaveGameString($saveGameString);
 ```

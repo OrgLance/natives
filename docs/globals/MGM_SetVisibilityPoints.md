@@ -1,10 +1,8 @@
 # MGM_SetVisibilityPoints
 ```c
 // 0x00642240
-void MGM_SetVisibilityPoints(unk p0)
+void MGM_SetVisibilityPoints(int points)
 ```
 ## Description
-```
-Minimum Arguments: 1
-Maximum Arguments: 1
-```
+Just sets the Cop visibility.<br>
+From 0 to 1000.

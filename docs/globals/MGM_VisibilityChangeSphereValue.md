@@ -1,10 +1,9 @@
 # MGM_VisibilityChangeSphereValue
 ```c
 // 0x006423c0
-bool MGM_VisibilityChangeSphereValue(unk p0, unk p1)
+bool MGM_VisibilityChangeSphereValue(int sphereId, float sphereValue)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 2
+Does what it says.
 ```

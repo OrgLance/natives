@@ -1,10 +1,9 @@
 # MGM_SendMessage
 ```c
 // 0x006421b0
-void MGM_SendMessage(unk p0)
+void MGM_SendMessage(string messageHash)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+Needs to be further investigated.
 ```

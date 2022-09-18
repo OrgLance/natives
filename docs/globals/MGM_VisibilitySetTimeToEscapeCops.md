@@ -1,10 +1,9 @@
 # MGM_VisibilitySetTimeToEscapeCops
 ```c
 // 0x00642300
-void MGM_VisibilitySetTimeToEscapeCops(unk p0)
+void MGM_VisibilitySetTimeToEscapeCops(float timeToEscapeInSeconds)
 ```
 ## Description
 ```
-Minimum Arguments: 1
-Maximum Arguments: 1
+The Default Value of the Time to escape the Cops is: 90.
 ```
