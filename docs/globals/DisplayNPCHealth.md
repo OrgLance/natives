@@ -1,10 +1,9 @@
 # DisplayNPCHealth
 ```c
 // 0x005d1730
-void DisplayNPCHealth(unk p0, unk p1, ...)
+void DisplayNPCHealth(bool showNpcHealth, int npcIndex, /* optional */ string objectName, /* optional */ unk p4, unk p5)
 ```
 ## Description
 ```
-Minimum Arguments: 2
-Maximum Arguments: 5
+Shows the Health of a friendly NPC in your Group.
 ```

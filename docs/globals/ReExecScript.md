@@ -1,7 +1,7 @@
 # ReExecScript
 ```c
 // 0x00489f10
-bool ReExecScript(unk p0)
+bool ReExecScript(string script)
 ```
 ## Description
 ```
